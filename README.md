@@ -2,7 +2,7 @@
 
 A responsive and interactive website for a sports center built using React and CSS. The website includes multiple sections such as Classes, Trainer Profiles, BMI Calculator, Purchase Options, and more, designed for user engagement and easy navigation.
 
-##Demo [(https://sport-center-react-ptkaa.netlify.app/)]
+## Demo
 
 ## Features
 
